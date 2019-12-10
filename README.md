@@ -4,6 +4,7 @@ We will use lending data from 2007-2010 and be trying to classify and predict wh
 
 My Contribution 
 
-1. Used Decision Tree and Random Forest algorithom to build the classification model
-2. Compared accuracy and F1 score of two models
-3. 
+1.  Used Decision Tree and Random Forest algorithm to build the classification model
+2.  Compared accuracy and F1 score of two models
+3.  Set up data for Random Forest Classification Mode
+4.  Predicting Test Set: f1-score: 78%.
